@@ -1,0 +1,19 @@
+.imagePlayer{
+    width: 375px;
+    height: 460px;
+    margin: auto;
+}
+
+.camera{
+    width: 375px; 
+    position: absolute;
+}
+
+.canvasWebGL{
+    position: absolute;
+}
+
+.page__bd{
+    text-align: center;
+}
+

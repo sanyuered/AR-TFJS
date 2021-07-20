@@ -1,0 +1,9 @@
+.videoPlayer { 
+    width: 375px;
+    height: 400px;
+    margin: auto;
+}
+
+.camera {
+    position: absolute;
+}
